@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<h3> I am DM Prabath Lakshitha </h3>
+<h3 align="center"> DM Prabath Lakshitha </h3>
+<h4 align="center"> <img src="https://komarev.com/ghpvc/?username=dmprabath&color=blue" alt="dmprabath" /> </h4>
 
 """
 
