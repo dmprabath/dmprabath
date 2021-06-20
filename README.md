@@ -1,4 +1,4 @@
-![Hi, I'm DM Prabath Lakshitha 👋 I'm a 💻 Python developer ❤️" ](https://github.com/dmprabath/dmprabath/assets/images/loading_image.gif)
+![Hi, I'm DM Prabath Lakshitha 👋 I'm a 💻 Python developer ❤️" ](https://github.com/dmprabath/dmprabath/blob/main/assets/images/loading_image.gif)
 
 <h3 align="center"> DM Prabath Lakshitha </h3>
 <h4 align="center"> <img src="https://komarev.com/ghpvc/?username=dmprabath&color=blue" alt="dmprabath" /> </h4>
