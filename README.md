@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Asscociate Python Developer
 - 🌱 I’m currently learning React
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmprabath&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
